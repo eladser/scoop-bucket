@@ -1,12 +1,12 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "description": "htop for your local AI",
     "homepage": "https://github.com/eladser/mtop",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eladser/mtop/releases/download/v1.4.0/mtop_1.4.0_windows_amd64.zip",
-            "hash": "0acb09d043d9e448d700c2805ba3ec3b93d82e30c2dfdb0f7c4b96d3a7f1bbc3"
+            "url": "https://github.com/eladser/mtop/releases/download/v1.5.0/mtop_1.5.0_windows_amd64.zip",
+            "hash": "2701afb170d3fde40f91dafa09aeb1c0274cf9c924e2d01d9a70a66cae17e374"
         }
     },
     "bin": "mtop.exe",
